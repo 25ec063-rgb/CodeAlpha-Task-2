@@ -19,6 +19,7 @@ Storage: SharedPreferences / Local storage
 Architecture: Simple Activity-based structure
 
 📂 Project Structure
+
 app/
  ├── MainActivity.kt
  ├── QuizActivity.kt
